@@ -9,7 +9,7 @@ A terminal-based path finding that calculates the paths and finds the cheapest p
 * Finds the shortest path using stacks and adjacent cities
 * No memory leak checked using Valgrind
 
-# Example Outputs of the CSV txt files
+# Example Outputs of the CSV Txt Files
 
 9 cities and 11 flights have been loaded
 The list of the cities that HPAir serves is given below:
