@@ -9,36 +9,8 @@ A terminal-based path finding that calculates the paths and finds the cheapest p
 * Finds the shortest path using stacks and adjacent cities
 * No memory leak checked using Valgrind
 
-# Example Input File and Outputs
+# Example Outputs of the CSV txt files
 
-# CSV file Inputs
-* City.txt
-
-P
-Q
-R
-T
-Z
-W
-Y
-X
-S
-
-* Flight.txt
-
-R;X;22;150
-Q;X;33;200
-T;W;66;350
-W;S;44;250
-Y;R;88;450
-P;W;11;100
-S;T;55;300
-Y;Z;100;550
-P;R;99;500
-W;Y;77;400
-R;Z;110;600
-
-# Output
 9 cities and 11 flights have been loaded
 The list of the cities that HPAir serves is given below:
 P, Q, R, S, T, W, X, Y, Z,
