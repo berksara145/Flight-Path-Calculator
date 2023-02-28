@@ -13,6 +13,7 @@ A terminal-based path finding that calculates the paths and finds the cheapest p
 
 # CSV file Inputs
 * City.txt
+
 P
 Q
 R
@@ -24,6 +25,7 @@ X
 S
 
 * Flight.txt
+
 R;X;22;150
 Q;X;33;200
 T;W;66;350
