@@ -50,27 +50,47 @@ The cities adjacent to W are:
 W -> S, Y,
 
 The whole flight map is given below:
+
 P -> R, W,
+
 Q -> X,
+
 R -> X, Z,
+
 S -> T,
+
 T -> W,
+
 W -> S, Y,
+
 X ->
+
 Y -> R, Z,
+
 Z ->
 
 Request is to fly from W to X:
+
 Flight #77 from W to Y, Cost: 400 TL
+
 Flight #88 from Y to R, Cost: 450 TL
+
 Flight #22 from R to X, Cost: 150 TL
+
 Total Cost: 1000 TL
+
 Request is to fly from S to X:
+
 Flight #55 from S to T, Cost: 300 TL
+
 Flight #66 from T to W, Cost: 350 TL
+
 Flight #77 from W to Y, Cost: 400 TL
+
 Flight #88 from Y to R, Cost: 450 TL
+
 Flight #22 from R to X, Cost: 150 TL
+
 Total Cost: 1650 TL
 
 
